@@ -1,0 +1,5 @@
+# Flutter/Dart Files
+.dart_tool/
+.packages
+pubspec.lock
+build/
